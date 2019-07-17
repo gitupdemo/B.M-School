@@ -268,10 +268,11 @@ header .dropdown-menu{width:100%;}
 .sidebar-collapse .sidebar-menu > li:hover > .treeview-menu {
 	display: block !important;
 	position: absolute;
-	width: 220px;
-	left: 50px;
+	width:150px;
+	left: 35px;
 	background: #00579a;
 	color:#fff;
+	border-radius: 0px 3px 3px 3px;
 }
 .sidebar-collapse .sidebar-menu > li:hover > a > span {
 	top: 0;
