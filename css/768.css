@@ -6,6 +6,7 @@
 	transform: translate(0, 0);
 	width: 50px;
 	z-index: 99;
+	background-color: #3598db;
 }
 .right-panel{
 	margin-left: 266px;
@@ -17,10 +18,10 @@
 	-o-transform: translate(0, 0);
 	transform: translate(0, 0);
 }
+
 .main-sidebar,
 .left-side {
-	padding:58px 0 0 0;
-	background-color: #3598db;
+	padding: 56px 0 0 0;
 }
 .right-panel{
 	margin-top:66px;

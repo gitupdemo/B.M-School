@@ -194,11 +194,11 @@ header .dropdown-menu{width:100%;}
 .main-sidebar li a span{padding-left:17px; position:absolute; top:12px;}
 .main-sidebar,
 .left-side {
-	background:#fff;
+    background-color: #3598db;
 	position: fixed;
 	top: 0;
 	left: 0;
-	padding: 143px 0 0 0;
+	padding:55px 0 0 0;
 	min-height: 100%;
 	width: 266px;
 	z-index: 98;
@@ -435,3 +435,7 @@ header .dropdown-menu{width:100%;}
 .p-l10{
 	padding-left: 10px;
 }
+
+
+
+.create-article .form-control.small{width:85%;}
